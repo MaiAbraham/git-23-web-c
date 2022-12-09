@@ -1,0 +1,32 @@
+
+
+.verde{
+    background-color: darkgreen;
+    border: solid darkgreen;
+    color: darkgreen;
+}
+
+.titulo{
+    color: greenyellow;
+    display: flex;
+    justify-content: center;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.trama {
+    background-color: black;
+    color: chocolate;
+display: flex;
+justify-content: center;
+}
+
+.parrafo{
+    background-color: darkgoldenrod;
+
+}
