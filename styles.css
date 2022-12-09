@@ -1,0 +1,18 @@
+* {
+    background-color: aquamarine;
+}
+
+/*display; es la etiqueta en la que observamos la pantalla se requiere un atributo "flex"*/
+/* Para poder hacer un cuadro justificado  necesitamos la etiqueta "justify-content":(colocamos a la direccion en la que queremos que se coloque)
+*/
+
+.nav {
+    border: 3px solid darkviolet;
+display: flex;
+justify-content:center  ;
+}
+
+
+ .nav-item{
+    border: 2px solid gray;
+ }
