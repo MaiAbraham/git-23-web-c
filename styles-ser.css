@@ -10,13 +10,13 @@
     color: greenyellow;
     display: flex;
     justify-content: center;
+    font-family: fantasy;
 }
 
 .imagen{
     display: flex;
     justify-content: center;
-    
-    
+    background-color: greenyellow;
 }
 
 .trama {
@@ -28,5 +28,10 @@ justify-content: center;
 
 .parrafo{
     background-color: darkgoldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
+.plataforma{
+    background-color: chartreuse ;
+    
 }
